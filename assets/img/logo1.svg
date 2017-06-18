@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="57px" height="97px" viewBox="0 0 57 97" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.1 (25234) - http://www.bohemiancoding.com/sketch -->
+    <title>noun_113854_cc</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="3" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="3" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="3" dy="3" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowBlurOuter2" type="matrix" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M9.32247646,2.00015305 C9.26858646,2.00114305 9.21779246,2.00915305 9.16660846,2.02305305 C7.52892946,2.46187305 7.96220146,9.39829305 8.40101446,11.035973 C8.83983246,12.673643 10.5225365,13.643203 12.1602155,13.204383 C13.7978945,12.765563 14.7720305,11.082853 14.3332145,9.44518305 C13.9081165,7.85868305 10.9930495,1.96774305 9.32247646,2.00013305 L9.32247646,2.00015305 Z M13.1321085,13.910403 C12.8810605,13.901403 12.6235015,13.929803 12.3710965,13.997603 C11.0249445,14.358313 10.1625975,15.752593 10.5923535,17.078313 L19.7565515,45.345653 C19.9240815,45.862453 20.4328885,46.183053 20.9576625,46.042353 C21.4824345,45.901953 21.7632235,45.372653 21.6499045,44.841353 L15.4518085,15.776313 C15.2156305,14.668873 14.2199635,13.948153 13.1321085,13.910463 L13.1321085,13.910403 Z" id="path-3"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="3" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M24.068701,0 C22.373252,0 21,6.81096 21,8.50641 C21,10.20187 22.373252,11.57512 24.068701,11.57512 C25.76415,11.57512 27.140739,10.20187 27.140739,8.50641 C27.140739,6.81096 25.76415,0 24.068701,0 L24.068701,0 Z M24.068701,12.3981 C22.675063,12.3981 21.481107,13.52192 21.553097,14.91372 L23.089114,44.58788 C23.117154,45.13038 23.525415,45.57078 24.068701,45.57078 C24.611983,45.57078 25.023554,45.13038 25.05162,44.58788 L26.584304,14.91372 C26.656304,13.52192 25.462343,12.3981 24.068701,12.3981 L24.068701,12.3981 Z" id="path-5"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="noun_113854_cc" sketch:type="MSLayerGroup" transform="translate(2.000000, 1.000000)">
+            <g id="Group">
+                <g id="Shape">
+                    <path d="M31.224284,26.00108 C29.565876,26.00108 29.342752,26.12799 27.754297,26.37699 L27.062054,39.76332 C27.223317,39.75032 27.384846,39.74432 27.543414,39.73932 C29.562838,39.70432 30.896378,40.23222 31.46863,41.65732 C32.641828,44.5789 30.9627,48.6349 27.327554,50.9208 C23.692407,53.2066 19.385463,52.8982 17.709503,50.233 C16.468091,48.259 16.285254,46.0665 18.131266,43.8621 L14.03282,31.21377 C5.169578,36.72247 0,46.0197 0,57.2243 C0,74.47 13.978506,88.453 31.224284,88.453 C48.470067,88.453 5.077583,71.9574 30.596223,57.2243 C56.23917,42.4193 48.470067,26 31.224284,26 L31.224284,26.00108 Z M21.541395,27.22509 C20.146603,27.62819 19.52474,28.04691 19.527538,28.18651 L22.213994,40.80272 C22.120894,39.68662 21.611775,30.92507 21.541395,27.22509 L21.541395,27.22509 Z M9.040421,40.91862 C11.25018,40.91862 13.042589,42.711 13.042589,44.9208 C13.042589,47.1306 11.25018,48.9229 9.040421,48.9229 C6.830656,48.9229 5.042832,47.1306 5.042832,44.9208 C5.042832,42.711 6.830656,40.91862 9.040421,40.91862 L9.040421,40.91862 Z M6.968276,54.4059 C9.178036,54.4059 10.970449,56.1938 10.970449,58.4034 C10.970449,60.6132 9.178036,62.4057 6.968276,62.4057 C4.758512,62.4057 2.966103,60.6132 2.966103,58.4034 C2.966103,56.1938 4.758512,54.4059 6.968276,54.4059 L6.968276,54.4059 Z M12.895889,67.2972 C15.105652,67.2972 16.898063,69.0896 16.898063,71.2994 C16.898063,73.5092 15.105652,75.2969 12.895889,75.2969 C10.686129,75.2969 8.89372,73.5092 8.89372,71.2994 C8.89372,69.0896 10.686129,67.2972 12.895889,67.2972 L12.895889,67.2972 Z" stroke="#000000" fill="#C8815A" filter="url(#filter-1)" sketch:type="MSShapeGroup"></path>
+                    <g filter="url(#filter-2)">
+                        <use stroke="#000000" stroke-width="1" fill="#6D7993" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-3"></use>
+                        <use stroke="none" fill="none" xlink:href="#path-3"></use>
+                    </g>
+                    <g filter="url(#filter-4)">
+                        <use stroke="#000000" stroke-width="1" fill="#C0B283" fill-rule="evenodd" sketch:type="MSShapeGroup" xlink:href="#path-5"></use>
+                        <use stroke="none" fill="none" xlink:href="#path-5"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
