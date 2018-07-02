@@ -1,13 +1,13 @@
 <!doctype html>
-<html class="no-js" lang="en">
+<html class="no-js" lang="es">
 
 <head>
   <meta charset="utf-8" />
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Painter Mor es Amor</title>
-  <link rel="stylesheet" href="../assets/css/app.css">
-  <link rel="stylesheet" href="../assets/fonts/foundation-icons/foundation-icons.css">
+  <title>Pintor Mor es Amor</title>
+  <link rel="stylesheet" href="assets/css/app.css">
+  <link rel="stylesheet" href="assets/fonts/foundation-icons/foundation-icons.css">
   <link href="//cdn.rawgit.com/noelboss/featherlight/1.7.6/release/featherlight.min.css" type="text/css" rel="stylesheet" />
 
 
@@ -15,6 +15,17 @@
 </head>
 
 <body>
+  <div id="fb-root"></div>
+  <script>
+    (function (d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s);
+      js.id = id;
+      js.src = "//connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v2.9&appId=1138698906223730";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+  </script>
   <div class="off-canvas-wrapper">
     <div class="off-canvas position-right" id="offCanvas" data-off-canvas>
 
@@ -27,10 +38,10 @@
       <div class="menu-centered">
         <ul class="menu">
           <li>
-            <a href="..//en/home.html">English</a>
+            <a href="/en/home.html">English</a>
           </li>
           <li>
-            <a href="..//index.html">Español</a>
+            <a href="/index.html">Español</a>
           </li>
         </ul>
       </div>
@@ -38,6 +49,8 @@
     </div>
 
     <div class="off-canvas-content" data-off-canvas-content>
+      <!-- Your page content lives here -->
+
 
 
 
@@ -51,24 +64,20 @@
             </div>
           </div>
 
-
-
-
-
           <div class="column small-12 text-center">
-            <a href="../">
-              <img class="avatar" src="../assets/img/moresamor.png" alt="moresamor pintor">
-              <div class="column small-12 medium-4 medium-centered title-name">
+            <a href="">
+              <img class="avatar" src="assets/img/moresamor.png" alt="moresamor pintor">
+              <div class="column small-12 medium-4 medium-centered" id="title-name">
                 <h1>Mor es Amor</h1>
               </div>
-              <div id="ocupacion" class="column medium-2 medium-centered small-12 text-center">
+              <div id="ocupacion" class="column small-12 medium-2 medium-centered text-center">
                 <div class="menu-centered">
                   <ul class="menu">
                     <li>
-                      <img class="paintbrush" src="../assets/img/logo1.svg" alt="">
+                      <img class="paintbrush" src="assets/img/logo1.svg" alt="">
                     </li>
                     <li>
-                      <p>Painter</p>
+                      <p>Pintor</p>
                     </li>
                   </ul>
                 </div>
@@ -86,13 +95,13 @@
               <div id="nav" class="menu-centered">
                 <ul class="menu">
                   <li class="">
-                    <a href="../en/home.html">PORTFOLIO</a>
-                  </li>
-                  <li class="active">
-                    <a href="../en/about.html">ABOUT</a>
+                    <a href="/">PORTAFOLIO</a>
                   </li>
                   <li class="">
-                    <a href="../en/contact.html">CONTACT</a>
+                    <a href="/bio.html">BIO</a>
+                  </li>
+                  <li class="active">
+                    <a href="/contacto.html">CONTACTO</a>
                   </li>
                 </ul>
               </div>
@@ -102,11 +111,14 @@
 
 
       <div class="row">
-        <div class="column small-12 medium-9">
-          <img src="../assets/img/bio.jpg" alt="painter mallorca">
+        <div class="column small-12 medium-6">
+          <h2>Hello!</h2>
+          <p>For business enquiries please send me a message through this contact form and will answer you as soon as possible</p>
         </div>
-        <div class="column small-12 medium-3">
-          <p>I am Mor Ndiaye, artist from Senegal</p>
+        <div class="column small-12 medium-6">
+          <h2>¡Gracias!</h2>
+          </form>
+
         </div>
       </div>
 
@@ -115,16 +127,25 @@
       <footer class="footer">
         <div class="row column text-center">
 
-          <p class="copyright">Mor Ndiaye © 2018 - All Works are creations of Mor Ndiaye </p>
+          <p class="copyright">Mor Ndiaye©2017 - Website crafted by
+            <a href="http://camconsulting.online">CAM Consulting</a>
+          </p>
         </div>
 
       </footer>
 
-      <script src="../assets/js/app.js"></script>
+      <script src="assets/js/app.js"></script>
       <script src="//cdn.rawgit.com/noelboss/featherlight/1.7.6/release/featherlight.min.js" type="text/javascript" charset="utf-8"></script>
 
     </div>
   </div>
+
+
+
+
+
+
+
 </body>
 
 </html>
